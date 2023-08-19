@@ -39,19 +39,22 @@
 </div>
 
 ###
+<h2 align="left">Connect with Me:</h2>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mayank-kushwaha-0728501b6/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/Mayankk09377521" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="mayank_08" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://www.svgrepo.com/svg/353655/discord-icon" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/_mayank._k___/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://commons.wikimedia.org/wiki/File:Instagram_logo_2022.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
