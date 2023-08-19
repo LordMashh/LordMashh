@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me :</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with :</h2>
 
 ###
 
@@ -36,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
@@ -49,12 +51,6 @@
   </a>
   <a href="https://twitter.com/Mayankk09377521" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="mayank_08" target="_blank">
-    <img src="https://www.svgrepo.com/svg/353655/discord-icon" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/_mayank._k___/" target="_blank">
-    <img src="https://commons.wikimedia.org/wiki/File:Instagram_logo_2022.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
