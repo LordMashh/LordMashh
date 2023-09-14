@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Advanced Javascript<br>🎯 Goal: Become a Full Stack Web Developer<br>🎲 Fun fact: Introvert</p>
+<p align="left">📚 I'm currently learning Advanced Javascript and MERN stack for web development <br>🎯 Goal: Become a Full Stack Web Developer<br>🎲 Fun fact: loves music</p>
 
 ###
 
