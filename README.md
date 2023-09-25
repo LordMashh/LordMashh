@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">My name is Mayank Kushwaha and I'm a Javascript Developer from Ahmedabad, Gujarat, India </h2>
+<h3 align="center">My name is Mayank Kushwaha and I'm a Javascript Developer from Ahmedabad, Gujarat, India </h3>
 
 ###
 
