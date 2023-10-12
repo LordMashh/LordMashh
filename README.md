@@ -39,8 +39,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
 </div>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LordMashh&theme=flat&no-frame=true&no-bg=false&margin-w=4)
+## <h2 align="left">🏆 GitHub Trophies:</h2>
+<div>
+  ![](https://github-profile-trophy.vercel.app/?username=LordMashh&theme=flat&no-frame=true&no-bg=false&margin-w=4)
+</div>
+
 
 ###
 <h2 align="left">Connect with Me:</h2>
@@ -55,5 +58,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LordMashh&theme=flat&no-frame=true&no-bg=false&margin-w=4)
+
