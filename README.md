@@ -44,8 +44,7 @@
 <h2 align="left">Connect with Me:</h2>
 
 ###
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LordMashh&theme=flat&no-frame=true&no-bg=false&margin-w=4)
+
 <div align="left">
   <a href="https://www.linkedin.com/in/mayank-kushwaha-0728501b6/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo"  />
@@ -54,3 +53,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LordMashh&theme=flat&no-frame=true&no-bg=false&margin-w=4)
