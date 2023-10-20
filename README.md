@@ -15,7 +15,6 @@
 
 - 📫 How to reach me: **mayankkush0842@gmail.com**
 
-- 📄 My Resume/CV: [https://lordmashh.github.io/Portfolio_mayank/Mayank_CV.pdf](https://lordmashh.github.io/Portfolio_mayank/Mayank_CV.pdf)
 
 - ⚡ Fun fact: **Loves Music**
 
